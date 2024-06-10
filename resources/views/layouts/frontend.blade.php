@@ -250,7 +250,7 @@
                     <div class="row">
                         <div class="col-12 text-center">
                             <div class="copyright-furniture">
-                                <p>Copyright © <a href="https://hastech.company/">HasTech</a> 2018 . All Right Reserved.</p>
+                                <p>Copyright © <a href="/">PaponTech</a> 2024 . All Right Reserved.</p>
                             </div>
                         </div>
                     </div>
