@@ -36,7 +36,7 @@
                             @forelse($users as $user)
                             <tr>
                                 <td>{{ $loop->iteration }}</td>
-                                <td>{{ $user->name }}</td>
+                                <td>{{ $user->username }}</td>
                                 <td>{{ $user->email }}</td>
                                 <td>
                                     @foreach($user->roles as $key => $role)
