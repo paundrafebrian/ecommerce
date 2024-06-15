@@ -29,7 +29,7 @@
         <!-- categories -->
         <div class="container mt-5">
                 <div class="section-title-furits text-center">
-                    <h2>BROWSE OUR CATEGORIES</h2>
+                    <h2>JELAJAHI KATEGORI INI</h2>
                 </div>
                 <br>
             <div class="row mt-5">
@@ -55,26 +55,17 @@
         <div class="services-area wrapper-padding-4 gray-bg pt-120 pb-80">
             <div class="container-fluid">
                 <div class="section-title-furits text-center">
-                    <h2>Why Choose Us</h2>
+                    <h2>Mengapa Memilih Kami</h2>
                 </div>
                 <br>
                 <div class="services-wrapper mt-40">
                     <div class="single-services mb-40">
                         <div class="services-img">
-                            <img src="{{ asset('frontend/assets/img/icon-img/26.png') }}" alt="">
-                        </div>
-                        <div class="services-content">
-                            <h4>Free Shippig</h4>
-                            <p>Contrary to popular belief, Lorem Ipsum is random text. </p>
-                        </div>
-                    </div>
-                    <div class="single-services mb-40">
-                        <div class="services-img">
                             <img src="{{ asset('frontend/assets/img/icon-img/27.png') }}" alt="">
                         </div>
                         <div class="services-content">
-                            <h4>24/7 Support</h4>
-                            <p>Contrary to popular belief, Lorem Ipsum is random text. </p>
+                            <h4>Support 24/7</h4>
+                            <p>Customer support 24/7 adalah sebuah layanan yang memungkinkan customer untuk menyelesaikan masalah mereka kapan saja mereka membutuhkan bantuan.</p>
                         </div>
                     </div>
                     <div class="single-services mb-40">
@@ -82,8 +73,8 @@
                             <img src="{{ asset('frontend/assets/img/icon-img/28.png') }}" alt="">
                         </div>
                         <div class="services-content">
-                            <h4>Secure Payments</h4>
-                            <p>Contrary to popular belief, Lorem Ipsum is random text. </p>
+                            <h4>Pembayaran yang aman</h4>
+                            <p>pembayaran telah memainkan peran penting dalam meningkatkan pengalaman berbelanja online bagi para konsumen.. </p>
                         </div>
                     </div>
                 </div>
@@ -96,7 +87,7 @@
             <div class="container-fluid">
                 <br>
                 <div class="section-title-furits section-title-6 text-center mb-50">
-                    <h2>Popular Product</h2>
+                    <h2>Produk Populer</h2>
                 </div>
                 <br>
                 <div class="product-style">
